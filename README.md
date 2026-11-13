@@ -2,6 +2,10 @@
 
 Projet de circuit électronique alimenté en 5 V, avec un 74HC14, un registre à décalage 74HC595 et un amplificateur audio LM386. Le schéma comprend trois résistances variables, des LED et une sortie pour haut-parleur.
 
+## État d’avancement
+
+Faute de temps, nous n’avons pas pu terminer la soudure de la breadboard finale.
+
 ## Fichiers du projet
 
 | Fichier | Contenu |
