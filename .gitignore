@@ -10,6 +10,7 @@
 _autosave-*
 ~*.lck
 *-backups/
+.history/
 fp-info-cache
 
 # Système
