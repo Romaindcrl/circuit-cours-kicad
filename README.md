@@ -53,4 +53,4 @@ Vue de dessus des couches de cuivre avant et arrière et de la sérigraphie avan
 
 [![Schéma manuscrit](medias/schema-manuscrit.jpg)](medias/schema-manuscrit.jpg)
 
-Les deux photos sont conservées dans leur version originale. La vidéo MOV a été convertie en MP4 H.264 avec audio AAC pour réduire sa taille et faciliter sa lecture.
+
