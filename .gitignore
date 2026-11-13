@@ -1,0 +1,17 @@
+# Réglages locaux et fichiers temporaires KiCad
+*.kicad_prl
+*.kicad_pcb.lck
+*.kicad_sch.lck
+*.lck
+*.bak
+*.bck
+*.tmp
+*~
+_autosave-*
+~*.lck
+*-backups/
+fp-info-cache
+
+# Système
+.DS_Store
+Thumbs.db
