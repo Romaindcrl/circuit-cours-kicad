@@ -10,6 +10,7 @@ Projet de circuit électronique alimenté en 5 V, avec un 74HC14, un registre à
 | [Circuit cours.kicad_sch](Circuit%20cours.kicad_sch) | Schéma électrique |
 | [Circuit cours.kicad_pcb](Circuit%20cours.kicad_pcb) | Implantation et routage du PCB |
 | [apercus/](apercus/) | Schéma et PCB au format SVG |
+| [medias/](medias/) | Photos du montage, schéma manuscrit et vidéo |
 
 ## Ouvrir avec KiCad
 
@@ -35,3 +36,17 @@ Les trois fichiers KiCad proviennent du projet fourni et sont conservés sans mo
 Vue de dessus des couches de cuivre avant et arrière et de la sérigraphie avant.
 
 [![Implantation et routage du PCB](apercus/pcb.svg)](apercus/pcb.svg)
+
+## Photos et vidéo du montage
+
+[Voir ou télécharger la vidéo du montage, avec le son](medias/demonstration.mp4) — environ 48 secondes, au format MP4.
+
+### Montage sur breadboard
+
+[![Montage sur breadboard](medias/montage-breadboard.jpg)](medias/montage-breadboard.jpg)
+
+### Schéma manuscrit
+
+[![Schéma manuscrit](medias/schema-manuscrit.jpg)](medias/schema-manuscrit.jpg)
+
+Les deux photos sont conservées dans leur version originale. La vidéo MOV a été convertie en MP4 H.264 avec audio AAC pour réduire sa taille et faciliter sa lecture.
